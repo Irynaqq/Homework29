@@ -1,0 +1,18 @@
+{
+  "name": "my-js-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:vitest": "vitest"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.9.1",
+    "jsdom": "^27.0.1",
+    "vite": "^7.1.7",
+    "vitest": "^4.0.4"
+  }
+}
